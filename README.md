@@ -28,7 +28,7 @@ I believe in continuous learning and staying up-to-date with the latest advancem
 - **Database Management**: SQL, MySQL
 - **Version Control**: Git, GitHub
 
-## 📫 Get in Touch
+## 📫 Let's Connect!
 
 I'm always open to collaborating on new data projects, discussing data-related ideas, or simply connecting with fellow data enthusiasts. Feel free to reach out to me via [email](mailto:dianengalu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dianengalu/).
 
