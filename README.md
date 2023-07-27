@@ -26,3 +26,5 @@ I'm always open to collaborating on new data projects, discussing data-related i
 Looking forward to exploring data-driven possibilities together! Let's make the world a better place through data! 🌍📊
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ebeui)](https://git.io/streak-stats)
+
+[![ebeui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebeui)](https://github.com/anuraghazra/github-readme-stats)
