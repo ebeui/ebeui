@@ -24,3 +24,5 @@ I'm always working on exciting data science projects that showcase my abilities 
 I'm always open to collaborating on new data projects, discussing data-related ideas, or simply connecting with fellow data enthusiasts. Feel free to reach out to me via [email](mailto:dianengalu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dianengalu/).
 
 Looking forward to exploring data-driven possibilities together! Let's make the world a better place through data! 🌍📊
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ebeui)](https://git.io/streak-stats)
