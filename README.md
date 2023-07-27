@@ -8,15 +8,16 @@ As a passionate data enthusiast with a strong background in data science and a c
 
 I'm always working on exciting data science projects that showcase my abilities and demonstrate the power of data-driven solutions. Here are some of the projects I've been working on:
 
-- **Restaurant Recommendation System**: Craft a user-friendly restaurant recommendation system that understands individual preferences, resulting in delightful dining experiences and stronger customer loyalty.
+- **TastyTrail**: Tasty Trail is a modern restaurant recommendation system that helps you discover the perfect dining spots for delightful culinary experiences. Craft a user-friendly restaurant recommendation system that understands individual preferences, resulting in delightful dining experiences and stronger customer loyalty.
 
 ## 🚀 My Toolbox
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python, SQL, R
 - **Data Analysis**: Pandas, NumPy, SciPy
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
 - **Data Visualization**: Matplotlib, Seaborn, Tableau
-- **Database Management**: SQL, MySQL
+- **Database Management**: MySQL
+- **Big Data**: AWS, Hadoop, Spark
 - **Version Control**: Git, GitHub
 
 ## 📫 Let's Connect!
