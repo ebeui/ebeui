@@ -1,5 +1,5 @@
 # Hi there, I'm Diane 👋
-
+![](https://komarev.com/ghpvc/?username=ebeui&style=flat-square)
 ## About Me
 
 As a passionate data enthusiast with a strong background in data science and a customer-centric mindset, I enjoy turning raw data into meaningful insights that solve real-world problems. Exploring diverse datasets and uncovering hidden patterns is a thrilling part of my journey. I believe in collaborative teamwork and am eager to contribute to the success of data-driven projects. Together, let's create transformative solutions!
