@@ -1,4 +1,5 @@
-# Hi there, I'm Diane 👋 ![](https://komarev.com/ghpvc/?username=ebeui&style=for-the-badge&color=green)
+# Hi there, I'm Diane 👋 
+![](https://komarev.com/ghpvc/?username=ebeui&style=for-the-badge&color=green)
 
 ## About Me
 
