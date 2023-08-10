@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello to all my fellow data enthusiasts! 🌿 Armed with a strong data science background and fueled by an unwavering passion for health and wellness, I thrive on transforming raw data into impactful solutions that directly address real health challenges. There's nothing more exhilarating than delving into diverse datasets and uncovering those hidden gems of insight. I firmly believe in the power of collaborative teamwork and I'm genuinely excited to contribute to projects that are driven by data and geared towards improving health outcomes. Let's embark on this transformative journey together! 🌟🤝
+Hello to all my fellow data enthusiasts! Armed with a strong data science background and fueled by an unwavering passion for health and wellness, I thrive on transforming raw data into impactful solutions that directly address real health challenges. There's nothing more exhilarating than delving into diverse datasets and uncovering those hidden gems of insight. I firmly believe in the power of collaborative teamwork and I'm genuinely excited to contribute to projects that are driven by data and geared towards improving health outcomes. Let's embark on this transformative journey together! 🌟🤝
 
 ## 🌱 Data Science Projects
 
