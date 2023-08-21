@@ -11,8 +11,6 @@ I'm always working on exciting data science projects that showcase my abilities 
 
 - **Tasty Trail**: Tasty Trail is a modern restaurant recommendation system that helps you discover the perfect dining spots for delightful culinary experiences. Craft a user-friendly restaurant recommendation system that understands individual preferences, resulting in delightful dining experiences and stronger customer loyalty.
 
-- **Serene Support**: SereneCare Bot is a mental health chatbot that offers assistance by providing comprehensive information about mental health. Cultivating emotional well-being can foster heightened effectiveness across domains like work, academics, and caregiving. While grappling with mental health concerns is not uncommon, it's essential to recognize that aid is within reach. Those wrestling with such challenges can experience progress and, in numerous cases, attain complete restoration.
-
 ## 🚀 My Toolbox
 
 - **Programming Languages**: Python, SQL, R
