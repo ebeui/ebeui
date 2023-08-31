@@ -10,6 +10,8 @@ I'm always working on exciting data science projects that showcase my abilities 
 
 - **Tasty Trail**: Tasty Trail is a modern restaurant recommendation system that helps you discover the perfect dining spots for delightful culinary experiences. Craft a user-friendly restaurant recommendation system that understands individual preferences, resulting in delightful dining experiences and stronger customer loyalty.
 
+- **Cardiovascular Disease Prediction**: Cardiovascular disease is a leading cause of death worldwide, and early detection is critical for effective treatment. However, identifying patients at risk of cardiovascular disease can be challenging, as it often involves analyzing multiple health metrics and medical history. A machine learning model for cardiovascular disease prediction can streamline this process and provide accurate and timely diagnoses, potentially saving lives and improving patient outcomes. 
+
 ## 🚀 My Toolbox
 
 - **Programming Languages**: Python, SQL, R
