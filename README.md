@@ -8,9 +8,9 @@ Hello to all my fellow data enthusiasts! Armed with a strong data science backgr
 
 I'm always working on exciting data science projects that showcase my abilities and demonstrate the power of data-driven solutions. Here are some of the projects I've been working on:
 
-- **Tasty Trail**: Tasty Trail is a modern restaurant recommendation system that helps you discover the perfect dining spots for delightful culinary experiences. Craft a user-friendly restaurant recommendation system that understands individual preferences, resulting in delightful dining experiences and stronger customer loyalty.
+- **[Tasty Trail](https://github.com/ebeui/restaurant_recommender_system)**: Tasty Trail is a modern restaurant recommendation system that helps you discover the perfect dining spots for delightful culinary experiences. Craft a user-friendly restaurant recommendation system that understands individual preferences, resulting in delightful dining experiences and stronger customer loyalty.
 
-- **Cardiovascular Disease Prediction**: Cardiovascular disease is a leading cause of death worldwide, and early detection is critical for effective treatment. However, identifying patients at risk of cardiovascular disease can be challenging, as it often involves analyzing multiple health metrics and medical history. A machine learning model for cardiovascular disease prediction can streamline this process and provide accurate and timely diagnoses, potentially saving lives and improving patient outcomes. 
+- **[Cardiovascular Disease Prediction](https://github.com/ebeui/heart_disease_prediction)**: Cardiovascular disease is a leading cause of death worldwide, and early detection is critical for effective treatment. However, identifying patients at risk of cardiovascular disease can be challenging, as it often involves analyzing multiple health metrics and medical history. A machine learning model for cardiovascular disease prediction can streamline this process and provide accurate and timely diagnoses, potentially saving lives and improving patient outcomes. 
 
 ## 🚀 My Toolbox
 
